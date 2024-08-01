@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.dropdown-item:hover {
+    font-family: "Poppins", sans-serif;
+    background-color: #f8f9fa; /* Change this color to your desired hover background color */
+    color: black; /* Change this color to your desired hover text color */
+    text-decoration: none; /* Remove underline on hover if needed */
+    font-weight: bold;
+}
+
