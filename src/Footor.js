@@ -9,10 +9,6 @@ const Footor = () => {
       section.scrollIntoView({ behavior: 'smooth' });
     }
   };
-  console.log(
-    'hiii sans'
-  )
-
   return (
     <div>
       <section className="info_section layout_padding2" id="our_home">
